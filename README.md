@@ -1,4 +1,4 @@
-****A_intro****
+# ****A_intro****
 ---
 ***
 
@@ -71,7 +71,7 @@
     
     3. 터미널은 쉘에게 받은 결과를 화면에 출력
 
-****B_print****
+# ****B_print****
 ---
 ***
 
@@ -108,7 +108,7 @@
     x = 10, x라는 이름의 저장공간이 RAM(메모리)에 만들어지고 10이라는 값이 들어간다.
 --- 
 
-****C_variable****
+# ****C_variable****
 ---
 ***
 
@@ -196,7 +196,7 @@
 ---
 
 
-****D_operator****
+# ****D_operator****
 ---
 ***
 
@@ -276,7 +276,7 @@
 ---
 
 
-****E_input****
+# ****E_input****
 ---
 ***
 
@@ -293,7 +293,7 @@
 ---
 
 
-****F_control statement****
+# ****F_control statement****
 ---
 ***
          
@@ -336,12 +336,12 @@
 ---
 
 
-****G_collection****
+# ****G_collection****
 ---
 ***
 
 
-**dict**
+## **dict**
 ---
 
 
@@ -367,7 +367,7 @@ dict 사용
         키 in dict명: 키가 있으면 참
         키 not in dict명: 키가 없으면 참
 
-**list**
+## **list**
 ---
 
 + list
@@ -419,7 +419,7 @@ dict 사용
         list명[인덱스] = 새로운 값
       
 
-**set**
+## **set**
 ---
 
 * set실습
@@ -440,7 +440,7 @@ dict 사용
            datas = [1,2,2,1,3,2,1,3,4,2,5,1,6]
            print(list(set(datas)))
 
-**tuple**
+## **tuple**
 ---
 
 - tuple실습
@@ -468,7 +468,7 @@ dict 사용
 ---
 
 
-****H_function****
+# ****H_function****
 ---
 ***
 
@@ -533,7 +533,7 @@ dict 사용
    + dict에 정보를 담은 뒤 **을 앞에 붙여서 전달
 ---
 
-****I_closure****
+# ****I_closure****
 ---
 ***
 
@@ -560,7 +560,7 @@ dict 사용
            return in
 ---
 
-****J_decorator****
+# ****J_decorator****
 ---
 ***
 
@@ -590,7 +590,7 @@ dict 사용
 
 ---
 
-****K_class****
+# ****K_class****
 ---
 ***
 
@@ -634,7 +634,7 @@ dict 사용
 
 ---
 
-****L_inheritance****
+# ****L_inheritance****
 ---
 ***
 
@@ -670,7 +670,7 @@ dict 사용
 
 ---
 
-****M_magic method****
+# ****M_magic method****
 ---
 ***
 
@@ -722,7 +722,7 @@ dict 사용
 
 ---
 
-****N_module****
+# ****N_module****
 ---
 ***
 
@@ -752,7 +752,7 @@ dict 사용
 ---
 
 
-****O_api****
+# ****O_api****
 ---
 ***
 
@@ -769,7 +769,7 @@ dict 사용
 
 ---
 
-****P_exception****
+# ****P_exception****
 ---
 ***
 
@@ -820,7 +820,7 @@ dict 사용
 
 ---
 
-****Q_file****
+# ****Q_file****
 ---
 ***
 
@@ -845,7 +845,7 @@ dict 사용
 
 ---
 
-****R_generator****
+# ****R_generator****
 ---
 ***
       
